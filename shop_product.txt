@@ -1,0 +1,4 @@
+  1  juce  20  0
+  2  stobary  50  10
+  3  banana  40  2
+ 4 mangoes 200 20
